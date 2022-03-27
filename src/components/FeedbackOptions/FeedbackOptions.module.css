@@ -1,0 +1,17 @@
+.Feedback__button {
+  margin-top: 25px;
+  margin-right: 10px;
+  margin-bottom: 25px;
+
+  padding: 10px 30px;
+
+  font-weight: 700;
+  text-transform: uppercase;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 1px 5px;
+}
+
+.Feedback__button:hover {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 3px 10px;
+  background-position: right center;
+}

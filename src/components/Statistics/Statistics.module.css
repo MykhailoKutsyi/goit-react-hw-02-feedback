@@ -1,0 +1,27 @@
+.FeedbackList {
+  width: 300px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 25px;
+}
+
+.FeedbackList__item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 3px 10px;
+}
+
+.Feedback__text {
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: 10px;
+}
+
+.total {
+  margin-top: 25px;
+  margin-bottom: 25px;
+
+  font-weight: 700;
+}
